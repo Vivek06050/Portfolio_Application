@@ -18,6 +18,9 @@
     --first-shadow-color: rgba(0, 0, 0, 0.1);
 
 }
+a{
+    text-decoration: none;
+}
 
 /* ----- BASE ----- */
 *{
